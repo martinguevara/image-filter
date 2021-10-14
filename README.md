@@ -1,2 +1,2 @@
 # image-filter
- Creating sepia, reflection, grayscale, and blur filters from scratch and returns a modified image
+ Created sepia, reflection, grayscale, and blur filters from scratch and return a modified image
